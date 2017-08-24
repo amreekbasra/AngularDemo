@@ -1,0 +1,27 @@
+h1 {
+  color: #369;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 250%;
+}
+h2 {
+  color: #945;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 200%;
+}
+h3 {
+  color: #248;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 200%;
+}
+.header img {
+  float: left;
+  width: 50px;
+  height: 50px;
+  background: #555;
+}
+
+.header h2 {
+  position: relative;
+  top: 18px;
+  left: 10px;
+}
